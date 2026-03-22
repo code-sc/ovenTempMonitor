@@ -9,5 +9,4 @@ project(ovenTempMeasure)
 
 add_subdirectory(src)
 
-pico_sdk_init()
 
